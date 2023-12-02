@@ -163,4 +163,4 @@ In summary, the following questions were answered:
  
 4. **After visually analysing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?**
   
-    In the last composite plot we can see that using fewer features  results in a higher inertia value which indicates that these clusters are closer together and easier to visualise. This also give us a more accurate look at the data without all the noise,     which is outliers of the data. 
+    In the last composite plot we can see that using fewer features result in lower inertia which means less noise (less outliers) and that clusters are more clustered. 
